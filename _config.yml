@@ -15,7 +15,7 @@ author: David Coe
 
 navbar-links:
   Research: "research"
-  About Me: "aboutme"
+  #About Me: "aboutme"
   Resources:
     - Code Repository: "https://github.com/Daviology38"
 
