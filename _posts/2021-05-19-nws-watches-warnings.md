@@ -1,3 +1,18 @@
+---
+title: "Exploring Python: Creating Regional NWS Alert Maps"
+date: "2021-05-19"
+categories: 
+  - "coding"
+  - "python"
+  - "technology"
+  - "weather"
+tags: 
+  - "coding"
+  - "nws"
+  - "python"
+coverImage: "/assets/exploring-python-creating-regional-nws-alert-maps/images/continentalus.png"
+---
+
 This program will grab the current active watches and warnings from the NWS API service and plot them on the grids using the python-awips coloring package for NWS watches and warnings.
 
 Note: In the awips-python package, there is currently no coloring set for special weather statements and a couple others. Those colors will be prepended as this program is updated. Currently, special weather statements are prepended to be shaded in 'moccasin'.
@@ -355,7 +370,7 @@ ax.add_feature(COUNTIES, facecolor='none', edgecolor='black')
 
 
     
-![png](nws_watches_warnings_files/nws_watches_warnings_11_1.png)
+![png](/assets/nws_watches_warnings_files/nws_watches_warnings_11_1.png)
     
 
 
@@ -442,49 +457,49 @@ for group in df.groupby(df[3]):
 
 
     
-![png](nws_watches_warnings_files/nws_watches_warnings_15_1.png)
+![png](/assets/nws_watches_warnings_files/nws_watches_warnings_15_1.png)
     
 
 
 
     
-![png](nws_watches_warnings_files/nws_watches_warnings_15_2.png)
+![png](/assets/nws_watches_warnings_files/nws_watches_warnings_15_2.png)
     
 
 
 
     
-![png](nws_watches_warnings_files/nws_watches_warnings_15_3.png)
+![png](/assets/nws_watches_warnings_files/nws_watches_warnings_15_3.png)
     
 
 
 
     
-![png](nws_watches_warnings_files/nws_watches_warnings_15_4.png)
+![png](/assets/nws_watches_warnings_files/nws_watches_warnings_15_4.png)
     
 
 
 
     
-![png](nws_watches_warnings_files/nws_watches_warnings_15_5.png)
+![png](/assets/nws_watches_warnings_files/nws_watches_warnings_15_5.png)
     
 
 
 
     
-![png](nws_watches_warnings_files/nws_watches_warnings_15_6.png)
+![png](/assets/nws_watches_warnings_files/nws_watches_warnings_15_6.png)
     
 
 
 
     
-![png](nws_watches_warnings_files/nws_watches_warnings_15_7.png)
+![png](/assets/nws_watches_warnings_files/nws_watches_warnings_15_7.png)
     
 
 
 
     
-![png](nws_watches_warnings_files/nws_watches_warnings_15_8.png)
+![png](/assets/nws_watches_warnings_files/nws_watches_warnings_15_8.png)
     
 
 
