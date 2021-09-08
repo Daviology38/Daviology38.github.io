@@ -14,6 +14,7 @@ coverImage: "/assets/exploring-python-real-time-mesoscale-analysis-with-bokeh/im
 
 #### By: David Coe Ph.D Candidate
 
-\[gist id="38dd57b5a9957e73b12b567e2ecf0bc4"\]
+<div class="gistLoad" data-id="38dd57b5a9957e73b12b567e2ecf0bc4" id="gist-38dd57b5a9957e73b12b567e2ecf0bc4">Loading ....</div><br />
 
 \[iframe src="https://storm.uml.edu/~metweb/blog\_notebooks/RTMS\_Bokeh.html" width="100%" height="500"\]
+<script src="https://raw.github.com/moski/gist-Blogger/master/public/gistLoader.js" type="text/javascript"></script>
