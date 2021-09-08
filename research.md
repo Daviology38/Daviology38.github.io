@@ -7,9 +7,11 @@ subtitle: Current Projects
 **Clustering Analysis of Autumn Weather Regimes in the Northeast U.S.** 
 - _Funded by NASA NESSF Grant NNX15AN91H S03, NOAA NA20OAR4310424, and NSF AGS-1623912_
 - **Supervisor: Dr. Mathew Barlow**
+- ![image](assets/img/fall_season.png)
 - Identified typical autumn circulation patterns across the Northeast U.S. using a k-means clustering algorithm coded in MATLAB.
 - Analyzed seasonality of the circulation patterns, confirming previous observations from other studies that summer is lasting longer in the year and winter starting later.
 - [Read the Paper!](https://doi.org/10.1175/JCLI-D-20-0243.1)
+- [View the code!](https://github.com/Daviology38/Analysis_from_Coe_et_al_2021_Fall_Season)
 
 **Analyzing the Role of Integrated Vapor Transport and Diabatic Heating on Extreme Precipitation Events in the Northeast U.S.**
 - _Funded by NOAA NA20OAR4310424, and NSF AGS-1623912_
@@ -22,12 +24,14 @@ subtitle: Current Projects
 **Spring Season Circulation Evolution and Relation to Extreme Events in the Northeast U.S.**
 - _Funded by NASA NESSF Grant NNX15AN91H S03, NOAA NA20OAR4310424, and NSF AGS-1623912_
 - **Supervisor: Dr. Mathew Barlow**
+- ![image](assets/img/spring_season.png)
 - Identified spring season circulation patterns using K-means clustering and performed analysis on seasonal evolution using them.
 - Enhanced understanding of extreme Precipitation, Heat wave, and Drought events during the spring season in the Northeast U.S. by investigating their relation to the underlying seasonal circulation patterns.
 - Lead author on paper in preparation.
 
 **Understanding Winter Season Onset and Withdrawal Timing in the Northeast U.S. Using Circulation Patterns and Deep Learning**
 - **Supervisor: Dr. Mathew Barlow**
+- ![image](assets/img/siamese_network.png)
 - Developed a Siamese Neural Network model to perform image matching on small datasets.
 - Matched out of season dates to typical spring and fall circulation patterns to determine typical onset and withdrawal of winter.
 - Lead author on paper in development.
