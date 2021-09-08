@@ -10,7 +10,7 @@ tags:
   - "coding"
   - "nws"
   - "python"
-coverImage: "continentalus.png"
+coverImage: "exploring-python-creating-regional-nws-alert-maps/images/continentalus.png"
 ---
 
 **By: David Coe Ph.D Candidate**

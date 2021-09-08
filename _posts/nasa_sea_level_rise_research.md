@@ -14,12 +14,12 @@ tags:
   - "oceans"
   - "research"
   - "sea-level-rise"
-coverImage: "BAMS_SOTC_2019_sealevelrise_1000px.jpg"
+coverImage: "new-research-from-nasa-identifies-causes-of-sea-level-rise-since-1900/images/BAMS_SOTC_2019_sealevelrise_1000px.jpg"
 ---
 
 By: David Coe (Ph.D Candidate)
 
-- ![](images/BAMS_SOTC_2019_sealevelrise_1000px.jpg)
+- ![](new-research-from-nasa-identifies-causes-of-sea-level-rise-since-1900/images/BAMS_SOTC_2019_sealevelrise_1000px.jpg)
     
 
 Map by NOAA Climate.gov based on data provided by Philip Thompson, University of Hawaii.
@@ -32,7 +32,7 @@ Potential impacts to coastal regions include flooding, shoreline erosion, and st
 
 ### Drivers of Global Sea-Level Rise
 
-![](images/1-1.png)
+![](new-research-from-nasa-identifies-causes-of-sea-level-rise-since-1900/images/1-1.png)
 
 Frederikse, T., Landerer, F., Caron, L. _et al._ The causes of sea-level rise since 1900. _Nature_ **584,** 393–397 (2020). [https://doi.org/10.1038/s41586-020-2591-3](https://doi.org/10.1038/s41586-020-2591-3)
 
@@ -40,7 +40,7 @@ Current understanding for changes in global sea levels breaks down to three majo
 
 #### Thermal Expansion of Oceans
 
-![](images/canvas.png)
+![](new-research-from-nasa-identifies-causes-of-sea-level-rise-since-1900/images/canvas.png)
 
 Figure from: NOAA climate.gov. Authors: [LuAnn Dahlman and Rebecca Lindsey](https://www.climate.gov/author/luann-dahlman-and-rebecca-lindsey)
 
@@ -48,7 +48,7 @@ Scientists and climatologists expect the average temperature of the Earth to ris
 
 The surface ocean has been seeing a large increase in heat content since the mid-1990s (see figure above). This is due to the ocean absorbing 10%-70% of heating due to greenhouse gases (studies are still uncertain exactly how much extra heating the oceans absorb).
 
-![](images/main-qimg-1fabd774667da19359098da4687526f3.png)
+![](new-research-from-nasa-identifies-causes-of-sea-level-rise-since-1900/images/main-qimg-1fabd774667da19359098da4687526f3.png)
 
 http://www.chem1.com/acad/sci/aboutwater.html
 
@@ -56,11 +56,11 @@ The above chart shows the specific volume of water at different temperatures. Ic
 
 #### Ice Sheet and Glacial Ice Melt
 
-![](images/LandIceAntarctica.png)
+![](new-research-from-nasa-identifies-causes-of-sea-level-rise-since-1900/images/LandIceAntarctica.png)
 
 One of the current main drivers of sea-level rise, ice sheet and glacial melt are estimated to have caused twice as much sea-level rise as thermal expansion since 1900. The above chart from NASA shows the extent of mass loss for the Antarctic Ice Sheet since 2000. There has been a significant decrease here and also in the Greenland Ice Sheet. The significance here is that both of these are land-based ice sheets.
 
-![](images/1200px-Buoyancy.svg_.png)
+![](new-research-from-nasa-identifies-causes-of-sea-level-rise-since-1900/images/1200px-Buoyancy.svg_.png)
 
 https://commons.wikimedia.org/wiki/File:Buoyancy.jpg
 
@@ -68,7 +68,7 @@ When an object is placed on water, gravity forces it downwards, but the buoyant 
 
 This means that when sea ice melts, there will be relatively no additional sea-level rise since the sea-level already rose to accommodate the sea-ice volume. Whereas when land-based glaciers and ice-sheets melt, this is additional water which enters the ocean from the land. This will cause significant increases in sea-level. For us here in North America, the loss of Antarctic ice-sheet mass is leading to a majority of the sea-level increase we are currently seeing.
 
-![](images/unnamed.png)
+![](new-research-from-nasa-identifies-causes-of-sea-level-rise-since-1900/images/unnamed.png)
 
 http://nautil.us/issue/33/attraction/why-our-intuition-about-sea\_level-rise-is-wrong
 
@@ -76,7 +76,7 @@ Glacial and ice-sheet melt will also have an effect on sea-levels due to gravita
 
 #### Terrestrial Water Storage
 
-![](images/2-1.png)
+![](new-research-from-nasa-identifies-causes-of-sea-level-rise-since-1900/images/2-1.png)
 
 Terrestrial water storage consists of how our water is stored on land, in aquifers, in dams, etc. Currently, ground water storage across the world has been impacted due to pumping and droughts. If we look back, we see during the 1970s that Terrestrial Water Storage was at a near maximum and almost balanced out the sea-level rise we were seeing due to ice melt and thermal expansion. During this time, we saw an increase in the building of dams and artificial water reservoirs, which increased the amount of water being stored outside of the oceans and decreased the amount of terrestrial water being input into the oceans. Since however, most of these dams are either in the process of being deconstructed (due to environmental issues or age) and reservoirs are drying up due to drought conditions, making it less effective at balancing out the sea-level rise we are seeing.
 
