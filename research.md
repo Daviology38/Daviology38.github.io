@@ -31,7 +31,7 @@ subtitle: Current Projects
 
 **Understanding Winter Season Onset and Withdrawal Timing in the Northeast U.S. Using Circulation Patterns and Deep Learning**
 - **Supervisor: Dr. Mathew Barlow**
-- ![image](assets/img/siamese_network.png)
+- ![image](assets/img/neural_network_output.PNG)
 - Developed a Siamese Neural Network model to perform image matching on small datasets.
 - Matched out of season dates to typical spring and fall circulation patterns to determine typical onset and withdrawal of winter.
 - Lead author on paper in development.
