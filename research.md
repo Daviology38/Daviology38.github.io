@@ -4,9 +4,9 @@ title: Research
 subtitle: Current Projects
 ---
 
-_Clustering Analysis of Autumn Weather Regimes in the Northeast U.S._ 
-- Funded by NASA NESSF Grant NNX15AN91H S03, NOAA NA20OAR4310424, and NSF AGS-1623912
-- Supervisor: Dr. Mathew Barlow
+**Clustering Analysis of Autumn Weather Regimes in the Northeast U.S.** 
+- _Funded by NASA NESSF Grant NNX15AN91H S03, NOAA NA20OAR4310424, and NSF AGS-1623912_
+- **Supervisor: Dr. Mathew Barlow**
 -Identified typical autumn circulation patterns across the Northeast U.S. using a k-means clustering algorithm coded in MATLAB.
 -Analyzed seasonality of the circulation patterns, confirming previous observations from other studies that summer is lasting longer in the year and winter starting later.
 Project: “Analyzing the Role of Integrated Vapor Transport and Diabatic Heating on Extreme Precipitation Events in the Northeast U.S.” - Funded by NOAA NA20OAR4310424, and NSF AGS-1623912
