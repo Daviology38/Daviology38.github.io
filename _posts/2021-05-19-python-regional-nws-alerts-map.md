@@ -10,7 +10,7 @@ tags:
   - "coding"
   - "nws"
   - "python"
-coverImage: "https://github.com/Daviology38/Daviology38.github.io/blob/master/_posts/exploring-python-creating-regional-nws-alert-maps/images/continentalus.png"
+coverImage: "/_posts/exploring-python-creating-regional-nws-alert-maps/images/continentalus.png"
 ---
 
 **By: David Coe Ph.D Candidate**

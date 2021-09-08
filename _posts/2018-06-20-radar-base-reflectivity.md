@@ -15,14 +15,14 @@ tags:
   - "rain"
   - "snow"
   - "weather"
-coverImage: "https://github.com/Daviology38/Daviology38.github.io/blob/master/_posts/doppler-radar-base-reflectivity/images/Capture.png"
+coverImage: "/_posts/doppler-radar-base-reflectivity/images/Capture.png"
 ---
 
 Weather radar is a common tool we see everywhere, from tv to the internet to apps on our smartphones and watches. We know to look for where we are on a map and the brighter the color, the heavier the precipitation that is coming. Have you ever wondered how to read these radar images more effectively for your use? This series called Doppler Radar will look at the main aspects meteorologists use when watching storms on radar to forecast heavy bands of precipitation as well as hail, thunder storms and tornadoes in the summer months
 
 .
 
-![](https://github.com/Daviology38/Daviology38.github.io/blob/master/_posts/doppler-radar-base-reflectivity/images/Capture.png)
+![](/_posts/doppler-radar-base-reflectivity/images/Capture.png)
 
 Above we see an image describing the different parts to a weather radar display on the National Weather Service website. This information applies to all radar applications on your phones as well. The radar is located at a set point in certain areas of the United States and can cover a circular range (defined by the range circles). Areas on the furthest edges of these range circles will have less accurate data due to interference with the radar beam whether it is due to dust particles, buildings, trees, etc. Explained more below, a radar beam is sent out from the radar and then bounces back off whatever it hits and returns to the radar. How much energy returns to the radar (some is absorbed by whatever the beam hits) and how fast it returns determines the distance and what type of object we are seeing. Most radars also contain a product scale which in this case above shows DBZ (decibel relative to Z) and describes the intensity of the precipitation that the beam has located. This helps us to determine where the heaviest precipitation bands are located and whether or not flash flooding may be an issue.
 
@@ -30,7 +30,7 @@ Above we see an image describing the different parts to a weather radar display 
 
  
 
-![](https://github.com/Daviology38/Daviology38.github.io/blob/master/_posts/doppler-radar-base-reflectivity/images/spectrum.png)
+![](/_posts/doppler-radar-base-reflectivity/images/spectrum.png)
 
 Doppler radar uses a form of energy called Microwaves, similar to the appliance we all have in our homes! The wave lengths of microwaves are longer than infrared and visible light and are close enough ![](images/cltr2.gif)to the Radio wavelength (Radar stands for RAdio Detection and Ranging). These microwaves differ from the ones we use in our appliances at home because instead of having the water droplets absorb the microwave energy and heat up, we want the microwave to reflect off of them and back to our receiver (the radar dish). Based on the type of wave sent out (depends on wavelength and frequency that the radar uses) we can tell if there is any precipitation and how big it is (which helps to tell if it is frozen or liquid precip). However, this is far from a perfect assessment as there are many things that can interfere with the radar beam and its path which can lead to false radar images and back scattering. In the image to the left, we can see the radar is picking up both buildings and insects from its radar beams being sent out!
 
