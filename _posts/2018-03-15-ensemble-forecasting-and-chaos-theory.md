@@ -11,6 +11,7 @@ tags:
   - "model"
   - "weather"
 coverImage: "/assets/ensemble-forecasting-chaos-theory-and-the-weather/images/29214621_1489105081216399_8670208329626157056_n.jpg"
+thumbnail-img: "/assets/ensemble-forecasting-chaos-theory-and-the-weather/images/29214621_1489105081216399_8670208329626157056_n.jpg"
 ---
 
 The models all look like they are coming into agreement that we’ll see another Nor’easter next week, however the question is will it be a rain, ice or snow event? To determine a preliminary forecast this far out (5+ days) we turn to ensemble models to better predict these types of events. Because of Chaos Theory, the weather is tough to predict more than a few days out, especially during the winter season!

@@ -10,6 +10,7 @@ tags:
   - "forecasting"
   - "snow-squall"
 coverImage: "/assets/forecasting-snow-squalls-in-the-northeast-u-s/images/gfs_hrly_pytpesound_cape_3.png"
+thumbnail-img: "/assets/forecasting-snow-squalls-in-the-northeast-u-s/images/gfs_hrly_pytpesound_cape_3.png"
 ---
 
 While many in the Southern United States have been dealing with a severe storm outbreak over the past few days, we dealt with our own "convective" outbreak last Sunday.

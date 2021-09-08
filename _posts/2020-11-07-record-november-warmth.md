@@ -12,6 +12,7 @@ categories:
   - "weather"
   - "winter"
 coverImage: "/assets/record-november-warmth-a-precursor-to-a-warm-winter/images/B22B3A50-4468-41E2-AC24-DB17AB060C63.jpeg"
+thumbnail-img: "/assets/record-november-warmth-a-precursor-to-a-warm-winter/images/B22B3A50-4468-41E2-AC24-DB17AB060C63.jpeg"
 ---
 
   

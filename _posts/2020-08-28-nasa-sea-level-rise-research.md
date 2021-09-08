@@ -15,6 +15,7 @@ tags:
   - "research"
   - "sea-level-rise"
 coverImage: "/assets/new-research-from-nasa-identifies-causes-of-sea-level-rise-since-1900/images/BAMS_SOTC_2019_sealevelrise_1000px.jpg"
+thumbnail-img: "/assets/new-research-from-nasa-identifies-causes-of-sea-level-rise-since-1900/images/BAMS_SOTC_2019_sealevelrise_1000px.jpg"
 ---
 
 - ![](/assets/new-research-from-nasa-identifies-causes-of-sea-level-rise-since-1900/images/BAMS_SOTC_2019_sealevelrise_1000px.jpg)

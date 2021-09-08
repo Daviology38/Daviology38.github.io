@@ -16,6 +16,7 @@ tags:
   - "snow"
   - "weather"
 coverImage: "/assets/doppler-radar-base-reflectivity/images/Capture.png"
+thumbnail-img: "/assets/doppler-radar-base-reflectivity/images/Capture.png"
 ---
 
 Weather radar is a common tool we see everywhere, from tv to the internet to apps on our smartphones and watches. We know to look for where we are on a map and the brighter the color, the heavier the precipitation that is coming. Have you ever wondered how to read these radar images more effectively for your use? This series called Doppler Radar will look at the main aspects meteorologists use when watching storms on radar to forecast heavy bands of precipitation as well as hail, thunder storms and tornadoes in the summer months
