@@ -12,9 +12,6 @@ tags:
   - "python"
 coverImage: "/assets/exploring-python-creating-regional-nws-alert-maps/images/continentalus.png"
 ---
-
-**By: David Coe Ph.D Candidate**
-
 Get a version of the code used here: [https://github.com/Daviology38/NWS-Watches-and-Warnings](https://github.com/Daviology38/NWS-Watches-and-Warnings)
 
  

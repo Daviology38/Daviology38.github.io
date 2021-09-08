@@ -12,8 +12,6 @@ tags:
 coverImage: "/assets/forecasting-snow-squalls-in-the-northeast-u-s/images/gfs_hrly_pytpesound_cape_3.png"
 ---
 
-By: David Coe
-
 While many in the Southern United States have been dealing with a severe storm outbreak over the past few days, we dealt with our own "convective" outbreak last Sunday.
 
 ![](/assets/forecasting-snow-squalls-in-the-northeast-u-s/images/Capture.png)

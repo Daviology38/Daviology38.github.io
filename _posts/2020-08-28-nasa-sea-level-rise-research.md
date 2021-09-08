@@ -17,8 +17,6 @@ tags:
 coverImage: "/assets/new-research-from-nasa-identifies-causes-of-sea-level-rise-since-1900/images/BAMS_SOTC_2019_sealevelrise_1000px.jpg"
 ---
 
-By: David Coe (Ph.D Candidate)
-
 - ![](/assets/new-research-from-nasa-identifies-causes-of-sea-level-rise-since-1900/images/BAMS_SOTC_2019_sealevelrise_1000px.jpg)
     
 
