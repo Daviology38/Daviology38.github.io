@@ -15,8 +15,6 @@ coverImage: "/assets/record-november-warmth-a-precursor-to-a-warm-winter/images/
 thumbnail-img: "/assets/record-november-warmth-a-precursor-to-a-warm-winter/images/B22B3A50-4468-41E2-AC24-DB17AB060C63.jpeg"
 ---
 
-  
-By: David Coe Ph.D Student
 
 Record high temps in the mid to upper 70s have been seen across the region this weekend with multiple stations setting new daily records Friday and Saturday! Yet, just last week we were looking a bit more wintry:
 
