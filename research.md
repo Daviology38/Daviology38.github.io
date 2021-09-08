@@ -9,11 +9,14 @@ subtitle: Current Projects
 - **Supervisor: Dr. Mathew Barlow**
 -Identified typical autumn circulation patterns across the Northeast U.S. using a k-means clustering algorithm coded in MATLAB.
 -Analyzed seasonality of the circulation patterns, confirming previous observations from other studies that summer is lasting longer in the year and winter starting later.
-Project: “Analyzing the Role of Integrated Vapor Transport and Diabatic Heating on Extreme Precipitation Events in the Northeast U.S.” - Funded by NOAA NA20OAR4310424, and NSF AGS-1623912
-Supervisor: Dr. Mathew Barlow
-Modelled 20 extreme-precipitation events in the Northeast U.S. using the WRF-ARW that were associated with Warm Conveyor Belts and Moisture Transport.
-Configured WRF-ARW to run with and without diabatic heating terms using a two-way nested model of resolutions 27km and 3km.
-Coded python scripts to plot and analyze the output, determining that diabatic heating played a significant role in Integrated Vapor Transport, its absence causing weakening of extreme precipitation events, with some events not producing enough precipitation to cross the threshold of extreme precipitation.  
+
+**Analyzing the Role of Integrated Vapor Transport and Diabatic Heating on Extreme Precipitation Events in the Northeast U.S.**
+- _Funded by NOAA NA20OAR4310424, and NSF AGS-1623912_
+- **Supervisor: Dr. Mathew Barlow**
+- Modelled 20 extreme-precipitation events in the Northeast U.S. using the WRF-ARW that were associated with Warm Conveyor Belts and Moisture Transport.
+- Configured WRF-ARW to run with and without diabatic heating terms using a two-way nested model of resolutions 27km and 3km.
+- Coded python scripts to plot and analyze the output, determining that diabatic heating played a significant role in Integrated Vapor Transport, its absence causing weakening of extreme precipitation events, with some events not producing enough precipitation to cross the threshold of extreme precipitation.  
+
 Project: “Spring Season Circulation Evolution and Relation to Extreme Events in the Northeast U.S.” - Funded by NASA NESSF Grant NNX15AN91H S03, NOAA NA20OAR4310424, and NSF AGS-1623912
 Supervisor: Dr. Mathew Barlow
 Identified spring season circulation patterns using K-means clustering and performed analysis on seasonal evolution using them.
