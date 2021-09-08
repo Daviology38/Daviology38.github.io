@@ -9,14 +9,14 @@ categories:
 tags: 
   - "forecasting"
   - "snow-squall"
-coverImage: "/_posts/forecasting-snow-squalls-in-the-northeast-u-s/images/gfs_hrly_pytpesound_cape_3.png"
+coverImage: "/assets/forecasting-snow-squalls-in-the-northeast-u-s/images/gfs_hrly_pytpesound_cape_3.png"
 ---
 
 By: David Coe
 
 While many in the Southern United States have been dealing with a severe storm outbreak over the past few days, we dealt with our own "convective" outbreak last Sunday.
 
-![](/_posts/forecasting-snow-squalls-in-the-northeast-u-s/images/Capture.png)
+![](/assets/forecasting-snow-squalls-in-the-northeast-u-s/images/Capture.png)
 
 Radar from Sunday, March 14th at 2:46 p.m.
 
@@ -26,13 +26,13 @@ Banacos et al. (2014) was one of the first studies on snow squalls in the Northe
 
 One of our group's current research projects is studying snow squalls for the southern and central portions of the Northeast U.S. to better understand the forcing mechanisms behind them. We found that there are three distinct types of snow squall events that we experience, one where squalls form off of the Atlantic Ocean, one where squalls form in Northern NH/ME, and one similar to those in Banacos et al. (2014) where the squalls move from northwest to southeast. All these event types have their own signature look based on convective energy, with slantwise convection being a main driver of these cases where CAPE is lacking. Let's take a quick look at the event from last Sunday, which was a case where CAPE was available and spawned snow squalls.
 
-![](/_posts/forecasting-snow-squalls-in-the-northeast-u-s/images/Ewc5B85WgAAqcqH-2.jpg)
+![](/assets/forecasting-snow-squalls-in-the-northeast-u-s/images/Ewc5B85WgAAqcqH-2.jpg)
 
-![](/_posts/forecasting-snow-squalls-in-the-northeast-u-s/images/Ewc5B85XMAIpKF6-2.jpg)
+![](/assets/forecasting-snow-squalls-in-the-northeast-u-s/images/Ewc5B85XMAIpKF6-2.jpg)
 
 The above images show the state of the atmosphere at 12z on Sunday at 850 hPa, 500 hPa, and the surface. The image on the left shows the typical setup for the type of snow squall event we saw on Sunday: 1.) At the surface, a low pressure system off to the northeast of the region. 2.) A mid and upper level trough over the region. These are not the only ingredients necessary to mark a day as likely to produce snow squalls, as mentioned previously, CAPE/slantwise convection and relative humidity play a big role.
 
-![](/_posts/forecasting-snow-squalls-in-the-northeast-u-s/images/gfs_hrly_pytpesound_cape_2-1.png)
+![](/assets/forecasting-snow-squalls-in-the-northeast-u-s/images/gfs_hrly_pytpesound_cape_2-1.png)
 
 ![](https://storm.uml.edu/~metweb/newBlog/wordpress/wp-content/uploads/2021/03/gfs_hrly_pytpesound_cape_1-1.png?ssl=1)
 

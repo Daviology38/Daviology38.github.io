@@ -9,7 +9,7 @@ tags:
   - "jupyter"
   - "notebook"
   - "python"
-coverImage: "/_posts/exploring-python-real-time-mesoscale-analysis-with-bokeh/images/Capture.png"
+coverImage: "/assets/exploring-python-real-time-mesoscale-analysis-with-bokeh/images/Capture.png"
 ---
 
 #### By: David Coe Ph.D Candidate
