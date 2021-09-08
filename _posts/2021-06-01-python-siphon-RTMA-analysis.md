@@ -4,6 +4,8 @@ Here we will be looking at the Real-Time Mesoscale Analysis (RTMA) dataset and h
 
 This will allow us to not only visualize the data onto a geographic map, but also interact with it through Bokeh. Let's take a look at how this is done!
 
+View the gist here! https://gist.github.com/Daviology38/38dd57b5a9957e73b12b567e2ecf0bc4
+
 
 ```python
 #Load in packages
