@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "New Research From NASA Identifies causes of sea-level rise since 1900"
 date: "2020-08-28"
 categories: 
@@ -14,8 +15,7 @@ tags:
   - "oceans"
   - "research"
   - "sea-level-rise"
-coverImage: "/assets/new-research-from-nasa-identifies-causes-of-sea-level-rise-since-1900/images/BAMS_SOTC_2019_sealevelrise_1000px.jpg"
-thumbnail-img: "/assets/new-research-from-nasa-identifies-causes-of-sea-level-rise-since-1900/images/BAMS_SOTC_2019_sealevelrise_1000px.jpg"
+image: "https://daviology38.github.io/assets/new-research-from-nasa-identifies-causes-of-sea-level-rise-since-1900/images/BAMS_SOTC_2019_sealevelrise_1000px.jpg"
 ---
 
 - ![](/assets/new-research-from-nasa-identifies-causes-of-sea-level-rise-since-1900/images/BAMS_SOTC_2019_sealevelrise_1000px.jpg)
