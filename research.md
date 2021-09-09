@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: researchpage
 title: Research
 subtitle: Current Projects
 ---
