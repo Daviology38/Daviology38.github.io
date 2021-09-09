@@ -1,7 +1,7 @@
 # Site
-name: "David Coe's Ph.D Candidate"
-title: "David Coe's Ph.D Candidate"
-description: "Python and Climate Research"
+name: "David Coe Ph.D Candidate"
+title: "Python and Climate Research"
+#description: "Python and Climate Research"
 logo: 'https://daviology38.github.io/assets/images/logo.png'
 favicon: 'https://daviology38.github.io/assets/images/logo.png'
 #baseurl: /mediumish-theme-jekyll
