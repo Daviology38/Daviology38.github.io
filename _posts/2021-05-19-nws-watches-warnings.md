@@ -1,6 +1,8 @@
 ---
+layout: post
 title: "Exploring Python: Creating Regional NWS Alert Maps"
 date: "2021-05-19"
+featured: true
 categories: 
   - "coding"
   - "python"
@@ -10,8 +12,8 @@ tags:
   - "coding"
   - "nws"
   - "python"
-coverImage: "/assets/exploring-python-creating-regional-nws-alert-maps/images/continentalus.png"
-thumbnail-img: "/assets/exploring-python-creating-regional-nws-alert-maps/images/continentalus.png"
+hidden: true
+image: "/assets/exploring-python-creating-regional-nws-alert-maps/images/continentalus.png"
 ---
 
 This program will grab the current active watches and warnings from the NWS API service and plot them on the grids using the python-awips coloring package for NWS watches and warnings.
