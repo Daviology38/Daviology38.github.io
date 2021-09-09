@@ -1,3 +1,20 @@
+---
+layout: post
+title: "Exploring Python: RTMA Analysis with Bokeh"
+date: "2021-06-01"
+featured: true
+categories: 
+  - "coding"
+  - "python"
+  - "technology"
+  - "weather"
+tags: 
+  - "coding"
+  - "python"
+hidden: true
+image: "/assets/exploring-python-real-time-mesoscale-analysis-with-bokeh/images/Capture.png"
+---
+
 This notebook takes a look at accessing some of the data available on UCAR's THREDDS Server using Siphon.
 
 Here we will be looking at the Real-Time Mesoscale Analysis (RTMA) dataset and how to plot it interactively in a notebook using holoviews and bokeh!
