@@ -2,7 +2,6 @@
 layout: post
 title: "Exploring Python: Creating Regional NWS Alert Maps"
 date: "2021-05-19"
-featured: true
 categories: 
   - "coding"
   - "python"
@@ -12,7 +11,6 @@ tags:
   - "coding"
   - "nws"
   - "python"
-hidden: true
 image: "https://daviology38.github.io/assets/exploring-python-creating-regional-nws-alert-maps/images/continentalus.png"
 ---
 
