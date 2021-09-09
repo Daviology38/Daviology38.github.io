@@ -1,5 +1,4 @@
 ---
-layout: categories
-title: Categories
-permalink: /categories
+layout: page
+title: Python Notebooks
 ---
