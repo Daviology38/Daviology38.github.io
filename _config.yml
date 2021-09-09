@@ -4,9 +4,9 @@ title: "Python and Climate Research"
 #description: "Python and Climate Research"
 logo: 'https://daviology38.github.io/assets/images/logo.png'
 favicon: 'https://daviology38.github.io/assets/images/logo.png'
-#baseurl: /mediumish-theme-jekyll
+#baseurl: ''
 #google_analytics: 'UA-46278016-1'
-include: ["_pages"]
+#include: ["_pages"]
 permalink: /:title/
 
 # Plugins
