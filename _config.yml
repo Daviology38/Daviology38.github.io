@@ -2,8 +2,8 @@
 name: "David Coe's Ph.D Candidate"
 title: "David Coe's Ph.D Candidate"
 description: "Python and Climate Research"
-logo: '/assets/images/logo.png'
-favicon: '/assets/images/logo.png'
+logo: 'https://daviology38.github.io/assets/images/logo.png'
+favicon: 'https://daviology38.github.io/assets/images/logo.png'
 #baseurl: /mediumish-theme-jekyll
 #google_analytics: 'UA-46278016-1'
 include: ["_pages"]

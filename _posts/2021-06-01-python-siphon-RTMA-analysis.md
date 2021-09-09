@@ -12,7 +12,7 @@ tags:
   - "coding"
   - "python"
 hidden: true
-image: "/assets/exploring-python-real-time-mesoscale-analysis-with-bokeh/images/Capture.png"
+image: "https://daviology38.github.io/assets/exploring-python-real-time-mesoscale-analysis-with-bokeh/images/Capture.png"
 ---
 
 This notebook takes a look at accessing some of the data available on UCAR's THREDDS Server using Siphon.
