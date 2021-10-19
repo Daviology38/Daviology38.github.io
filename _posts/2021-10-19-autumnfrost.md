@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "October 19, 2021: Where's Autumn this year?"
+title: "Where's Autumn this year?"
 date: "2021-10-19"
 categories: 
   - "autumn"
